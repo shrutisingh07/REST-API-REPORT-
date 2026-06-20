@@ -1,29 +1,21 @@
-# 💰 Expense Tracker API
+# 📄 Expense Tracker (Report Project)
 
-A REST API built using Apidog for managing personal expenses.
-
----
-
-## 📌 Features
-- Add new expense
-- View all expenses
-- Update expense
-- Delete expense
-- Category tracking
+This project contains a detailed report of an Expense Tracker system.
 
 ---
 
-## 🛠 Tech Stack
-- Apidog
-- REST API
-- JSON
+## 📌 Contents
+- Project explanation
+- Screenshots
+- Code explanation
+- Testing details
 
 ---
 
-## 📸 Preview
-REST API , EXPENSE TRACKER REPORT.pdf
+## 📄 Documentation
+Full project report is available in PDF format.
 
 ---
 
-## 👩‍💻 Author
-Shruti Singh
+## 👩‍💻 Note
+This is a documentation-based beginner project created for learning purposes.
