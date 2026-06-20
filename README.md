@@ -4,11 +4,6 @@ A REST API built using Apidog for managing personal expenses.
 
 ---
 
-## 🚀 Live Documentation
-👉 https://djyfgystc2.apidog.io
-
----
-
 ## 📌 Features
 - Add new expense
 - View all expenses
